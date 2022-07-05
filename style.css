@@ -4,6 +4,8 @@
   font-family: 'Poppins', sans-serif;
 }
 
+/*section 1 style*/
+
 .section1{
   display:flex;
   width: 100%;
@@ -53,6 +55,57 @@ h1{
 }
 
 .top-btn:hover{
+  cursor: pointer;
+  color: gray;
+}
+
+/* section 2 style*/
+
+.section2{
+  display:flex;
+  width: 100%;
+  background-image: url(eat-healthy-main/images/shapes/7.png);
+}
+
+.section2-child{
+  width: 50%;
+}
+
+.section2-child img{
+  width: 45%;
+  padding-top: 50px;
+}
+
+.S2C1{
+  text-align: center;
+}
+
+
+.S2C2-child{
+  padding: 100px 120px 50px 60px;
+}
+
+
+h2{
+  font-size:40px ;
+  color: rgb(107, 105, 105);
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+
+.second-btn{
+  background: linear-gradient(tomato ,rgb(250, 132, 191) );
+  border-radius: 50px;
+  border: none;
+  width: 170px;
+  height: 60px;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 70px;
+}
+
+.second-btn:hover{
   cursor: pointer;
   color: gray;
 }
