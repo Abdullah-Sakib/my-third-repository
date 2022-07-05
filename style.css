@@ -14,11 +14,11 @@
 }
 
 .S1C1{
-  padding: 180px 20px 100px 70px ;
+  padding: 180px 0px 100px 80px ;
 }
 
 .S1C2{
-  padding: 70px;
+  padding: 80px 100px 100px 20px;
 }
 
 .section1-child img{
@@ -45,7 +45,7 @@ h1{
   background: linear-gradient(rgb(250, 132, 191),tomato);
   border-radius: 50px;
   border: none;
-  width: 150px;
+  width: 170px;
   height: 60px;
   color: white;
   font-size: 15px;
