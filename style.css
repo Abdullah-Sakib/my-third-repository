@@ -57,6 +57,7 @@ h1{
 .top-btn:hover{
   cursor: pointer;
   color: gray;
+  box-shadow: 10px 10px 40px gray;
 }
 
 /* section 2 style*/
@@ -108,4 +109,5 @@ h2{
 .second-btn:hover{
   cursor: pointer;
   color: gray;
+  box-shadow: 10px 10px 40px gray;
 }
