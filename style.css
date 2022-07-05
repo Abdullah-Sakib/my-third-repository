@@ -111,3 +111,63 @@ h2{
   color: gray;
   box-shadow: 10px 10px 40px gray;
 }
+
+/* section 3 styles*/
+.S3C1{
+  text-align: center;
+  margin-top: 70px;
+}
+
+
+.section3-child{
+  display: flex;
+  margin: 20px 50px 50px 50px;
+}
+
+.baccha{
+  width: 50%;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 30px;
+  box-shadow: 10px 10px 30px gray;
+}
+
+.kid img{
+  width: 100%;
+  height: 340px;
+}
+
+#kid1{
+  margin-right: 15px;
+}
+
+#kid2{
+  margin-left: 15px;
+}
+
+h3{
+  font-size: 30px;
+  font-weight: 900;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.kid p{
+  color: gray;
+  margin-bottom: 20px;
+}
+
+.S3C3{
+  display: flex;
+  justify-content: space-between;
+  margin: 80px;
+  border-radius: 20px;
+  padding: 50px 140px;
+  box-shadow: 10px 10px 30px gray;
+  text-align: center;
+}
+
+.S3C3 h1{
+  color: black;
+  font-weight: 900;
+}
