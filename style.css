@@ -171,3 +171,23 @@ h3{
   color: black;
   font-weight: 900;
 }
+
+footer{
+  background-color: rgb(14, 15, 21);
+  height: 250px;
+  text-align: center;
+}
+
+footer div p{
+  color: white;
+  font-weight: 100;
+}
+
+footer div span{
+  color: #ff4747;
+}
+
+footer div h3{
+  color: gainsboro;
+  padding: 30px 30px 10px 30px;
+}
